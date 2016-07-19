@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
                     } else {
                         view.loadUrl(url);
                     }
-
                 }
                 return true;
             }
@@ -42,3 +41,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+
+//Creating a new branch is quick AND simple.
