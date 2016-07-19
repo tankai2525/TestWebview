@@ -41,9 +41,4 @@ public class MainActivity extends AppCompatActivity {
         mWebView.loadUrl("https://m.taobao.com");
     }
 
-    //dev分支操做
-    //master分支
-    //dev1分支操作
-    //dev分支在操作
-    //test
 }
