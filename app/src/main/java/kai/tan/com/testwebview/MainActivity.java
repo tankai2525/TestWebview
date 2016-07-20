@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 return true;
             }
         });
+        if(mWebView!=null)
         mWebView.loadUrl("https://m.taobao.com");
     }
 
