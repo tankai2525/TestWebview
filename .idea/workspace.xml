@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98bf5af6-8709-45ac-9e29-df8779bd4dfb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test.txt" afterPath="$PROJECT_DIR$/test/test.txt" />
     </list>
     <ignored path="TestWebview.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,8 +45,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3652968">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -1711,8 +1711,8 @@
         <option value="$PROJECT_DIR$/test1/test2/at" />
         <option value="$PROJECT_DIR$/test1/test" />
         <option value="$PROJECT_DIR$/app/src/main/java/kai/tan/com/testwebview/MainActivity.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test/test.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -2326,7 +2326,13 @@
       <option name="project" value="LOCAL" />
       <updated>1469065745406</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="asfwef">
+      <created>1469065775842</created>
+      <option name="number" value="00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1469065775842</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2382,7 +2388,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="master&#10;" />
     <MESSAGE value="dev commit&#10;" />
     <MESSAGE value="test&#10;" />
     <MESSAGE value="dev test&#10;" />
@@ -2407,7 +2412,8 @@
     <MESSAGE value="awefwe" />
     <MESSAGE value="wefawef" />
     <MESSAGE value="clean gitignore hehe" />
-    <option name="LAST_COMMIT_MESSAGE" value="clean gitignore hehe" />
+    <MESSAGE value="asfwef" />
+    <option name="LAST_COMMIT_MESSAGE" value="asfwef" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2520,8 +2526,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3652968">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding />
         </state>
       </provider>
