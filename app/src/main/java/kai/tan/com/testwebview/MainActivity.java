@@ -47,7 +47,3 @@ public class MainActivity extends AppCompatActivity {
 //master hate girl
 //what is fetch?
 //what is pull?
-//hahahah
-//hahahah
-//hahahah
-//kakak
